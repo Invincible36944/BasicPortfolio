@@ -58,8 +58,13 @@ Used an AI language Translator
 
 ![Screenshot (42)](https://github.com/Invincible36944/BasicPortfolio/assets/92206135/0a61cda8-0de8-4d13-9249-37fd55787216)
 
+
 # LIVE LINK
 
 Better to view in firefox.
 
 https://witty-pebble-02c622910.4.azurestaticapps.net/
+
+# Youtube Video
+
+https://www.youtube.com/watch?v=jQGaYCAjVrE
